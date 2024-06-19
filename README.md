@@ -1,5 +1,4 @@
-# Iris
- This project aims to predict the species of Iris flowers based on their morphological features using the K-Nearest Neighbors (KNN) algorithm. The well-known Iris dataset, which includes measurements of sepal length, sepal width, petal length, and petal width for three Iris species, is used to train and evaluate the model.
+Sure, here is a concise README file for your Iris dataset prediction project using the KNN model:
 
 ---
 
@@ -72,3 +71,4 @@ This project is licensed under the MIT License.
 
 ---
 
+This README provides a concise summary of your project, covering its purpose, dataset, installation, usage, results, future work, and contribution guidelines.
